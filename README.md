@@ -1,5 +1,5 @@
 # Google-page
-Trying to make the main Google page with HTML &amp; CSS
+Trying to make the main google page with HTML & CSS
 source : FreeCodeCamp.org 
 teacher : Per Harald Borgen
 
