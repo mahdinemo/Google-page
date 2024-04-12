@@ -6,3 +6,8 @@ source : FreeCodeCamp.org
 teacher : Per Harald Borgen
 <br>
 tip : I did not download the Google image , instead I used it's image address.
+<br>
+Things I learned HTML throw this course :
+<ul>
+  <li>Using more divs</li>
+</ul>
