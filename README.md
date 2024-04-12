@@ -13,6 +13,5 @@ Things I learned HTML throw this course :
   <li>Creating and using more Classes and IDs.</li>
   <li>Difference of Class and ID.</li>
 </ul>
-<br>
 ------------------------------------------------------------------------------------------------
 
