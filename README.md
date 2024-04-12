@@ -14,4 +14,10 @@ Things I learned HTML throw this course :
   <li>Difference of Class and ID.</li>
 </ul>
 ------------------------------------------------------------------------------------------------
-
+Things I learned about CSS throw this course : 
+<ul>
+  <li>Learned about margin and padding</li>
+  <li>Centering texts and images with flexbox and margin technique</li>
+  <li>How to creat border and change the border-radius</li>
+  <li>Changing the color and backgroung of images and texts</li>
+</ul>
