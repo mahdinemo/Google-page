@@ -14,6 +14,7 @@ Things I learned HTML throw this course :
   <li>Difference of Class and ID.</li>
 </ul>
 ------------------------------------------------------------------------------------------------
+<br>
 Things I learned about CSS throw this course : 
 <ul>
   <li>Learned about margin and padding</li>
