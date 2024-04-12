@@ -6,8 +6,10 @@ source : FreeCodeCamp.org
 teacher : Per Harald Borgen
 <br>
 tip : I did not download the Google image , instead I used it's image address.
-<br>
+<br><br>
 Things I learned HTML throw this course :
 <ul>
   <li>Using more divs</li>
+  <li>Creating and using more Classes and IDs.</li>
+  <li>Difference of Class and ID.</li>
 </ul>
